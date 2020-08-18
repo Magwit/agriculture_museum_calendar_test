@@ -158,3 +158,4 @@ $RECYCLE.BIN/
 .videos/
 cypress.json
 cypress.env.json
+applitools.config.js
